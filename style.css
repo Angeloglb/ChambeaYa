@@ -84,7 +84,7 @@ ul {
 .home {
   font-size: 80px;
   color: white;
-  background: url(Assets/Fondo\ de\ inicio.jpg) no-repeat center top;
+  background: url(/Assets/Fondo\ de\ inicio.jpg) no-repeat center top;
   background-size: cover;
   height: 100vh;
   text-align: right;
